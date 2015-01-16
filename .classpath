@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/simplelatlng-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/weka-10-12-2014.jar"/>
+	<classpathentry kind="lib" path="lib/liblinear-1.92.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/lingpipe-4.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
